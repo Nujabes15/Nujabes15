@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning the beginning stages of Full stack web development
 - 💞️ I’m looking to collaborate on any projects that will help my learning and development
 - 📫 How to reach me DevvieDevvv@gmail.com
-- 😄 Pronouns: He/He's
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I just started in fall of 2024 and by fall of 2025 I will be a well established name in this industry
